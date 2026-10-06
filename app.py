@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title='Process Mining | Moative', page_icon='▶', layout='wide')
 st.markdown('''<style>
 .stApp { background: #f6f5f1; }
-.block-container { max-width: 1120px; padding-top: 2rem; }
+.block-container { max-width: 1120px; padding-top: 4rem; }
 h1 { font-family: Georgia, serif; color: #16201f; }
 a { color: #b95421 !important; }
 </style>''', unsafe_allow_html=True)
